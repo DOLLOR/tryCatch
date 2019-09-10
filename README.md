@@ -1,4 +1,4 @@
-# trycatch
+# tryCatch
 Custom tryCatch Function
 
 
