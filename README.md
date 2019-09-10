@@ -11,6 +11,6 @@ function tryCatch(tryFn,catchFn=()=>{}){
 	}
 }
 
-
+// for example
 let x = tryCatch(_=> a.b.c.d, _=> defaultValue);
 ```
